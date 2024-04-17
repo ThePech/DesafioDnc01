@@ -1,1 +1,1 @@
-# DesafioDnc01
+Projeto do curso de desenvolvimento Front-End número 1: Construção de uma landing page, estruturada em um menu superior, um menu informacional com imagem e um formulário, a integração das informações do formulário em uma planilha e a diponibilização do projeto em um site via Netlify
