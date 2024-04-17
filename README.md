@@ -1,1 +1,3 @@
-Projeto do curso de desenvolvimento Front-End número 1: Construção de uma landing page, estruturada em um menu superior, um menu informacional com imagem e um formulário, a integração das informações do formulário em uma planilha e a diponibilização do projeto em um site via Netlify
+
+Link site: https://661fe6578ce25d47bd5621ed--desafio01pech.netlify.app/
+Link Planilha: https://docs.google.com/spreadsheets/d/13BUfOux0v78-g8D7dddS3J398ppvuD42NGSV99dcKfY/edit?usp=sharing
